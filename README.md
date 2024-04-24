@@ -1,0 +1,1 @@
+# Simple log in page, on click, the 'email' and 'password' wave up, focus goes in the input
